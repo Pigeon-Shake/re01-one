@@ -20,11 +20,7 @@
     <p>此工具无法使用你手机或电脑上的图片，需要前往上面的第三方图床网站上传图片（请勿上传隐私图片），获得后缀为jpg或png的网络图片地址后粘贴到src 属性中</p>
     <img src="https://www.midorg.com/midlogo.png" alt="logo" width="100px" height="100px">
     <br>
-    <a
-      href="https://www.midorg.com/"
-      target="_blank"
-      rel="noopener noreferrer"
-      >
+    <a href="https://www.midorg.com/" target="_blank" rel="noopener noreferrer">
       元岛社区 www.midorg.com 
     </a>
 </body>
